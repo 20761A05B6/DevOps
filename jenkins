@@ -10,7 +10,7 @@ stage('Clean') {
         stage('Build') {
             steps {
                echo "Cleaning the code"
-                bat "mvn build"
+                bat "mvn compile"
             }
         }
         stage('Test') {
