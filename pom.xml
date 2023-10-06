@@ -24,6 +24,12 @@
     <version>7.8.0</version>
     <scope>test</scope>
 </dependency>
+<!-- https://mvnrepository.com/artifact/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.deploymentrepository -->
+<dependency>
+    <groupId>io.github.jiri-meluzin</groupId>
+    <artifactId>io.github.jiri-meluzin.tibcobwutils.deploymentrepository</artifactId>
+    <version>1.1</version>
+</dependency>
 
   </dependencies>
   
